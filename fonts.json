@@ -1,0 +1,12 @@
+[
+  { "id": "muyao-suixin", "displayName": "沐瑶随心手写体", "file": "沐瑶随心手写体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "muyao-ruanbi", "displayName": "沐瑶软笔手写体", "file": "沐瑶软笔手写体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "youzai", "displayName": "悠哉字体", "file": "悠哉字体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "xiaolai", "displayName": "小赖字体", "file": "小赖字体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "jingnan-maiyuan", "displayName": "荆南麦圆体", "file": "荆南麦圆体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "hetang-yuese", "displayName": "荷塘月色手写体", "file": "荷塘月色手写体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "honglei-xiaozhitiao", "displayName": "鸿雷小纸条青春体", "file": "鸿雷小纸条青春体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "851-yuanxing", "displayName": "851远星夜行手写体", "file": "851远星夜行手写体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "bailu-qiaoli", "displayName": "白路俏丽手写体", "file": "白路俏丽手写体.ttf", "style": "手写", "license": "免费商用" },
+  { "id": "hanchanshouzhuo", "displayName": "寒蝉手拙体", "file": "寒蝉手拙体.ttf", "style": "手写", "license": "免费商用" }
+]
